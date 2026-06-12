@@ -1,0 +1,6 @@
+{
+  "name": "WorldExplorer",
+  "description": "Dunyo Davlatlari Ma'lumotlar Platformasi - platform to explore countries, filter by regions, sort, see border countries, and save favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
